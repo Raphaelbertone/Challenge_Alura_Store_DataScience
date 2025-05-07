@@ -29,12 +29,16 @@ A análise do faturamento total revelou os seguintes resultados:
 
 **Conclusão:** A **Loja 1** é a mais lucrativa, enquanto a **Loja 4** tem o menor faturamento.
 
+![img_faturamento](https://github.com/user-attachments/assets/017d1523-bb7d-4c58-8303-31e304823fb3)
+
 ________________________________________
 # **2.** **Categorias de Produtos Mais e Menos Vendidas**
 
 A categoria mais vendida em todas as lojas foi **"móveis"**, seguida por **"eletrônicos"** e **"brinquedos"**. As menos vendidas variam, com **"livros”**, **“instrumentos musicais"** e **"utilidades domésticas"** aparecendo com menor frequência em algumas lojas.
 
 **Conclusão:** As categorias de alto valor estão bem distribuídas entre as lojas, com destaque consistente para móveis.
+
+![img_categoria](https://github.com/user-attachments/assets/ece653e5-ccd4-4f76-b9ef-8d49ac92cfd1)
 
 ________________________________________
 # **3. Média de Avaliação dos Clientes**
@@ -54,6 +58,8 @@ As médias de avaliação por loja foram:
 
 **Conclusão:** A **Loja 3** apresenta a melhor satisfação do cliente, enquanto a **Loja 1** tem o menor desempenho nesse aspecto.
 
+![img_avaliacao](https://github.com/user-attachments/assets/ec7b7bda-883a-4c1d-bc35-f6c022edbaea)
+
 ________________________________________
 # **4. Produtos Mais e Menos Vendidos**
 
@@ -61,6 +67,11 @@ ________________________________________
 **• Menos vendidos:** Loja 2 e Loja 4 possuem produtos com vendas muito baixas, abaixo de 35 unidades. O produto com menos saída foi **“jogo de tabuleiro”** da Loja 2 e **“guitarra”** da Loja 4.
 
 **Conclusão:** Há equilíbrio nos produtos de maior saída, mas lojas como a 4 e a 2 têm itens com baixa rotatividade.
+
+![img_mais_vendidos](https://github.com/user-attachments/assets/c60dc9f8-244d-4d97-b051-87546a49a09d)
+
+![img_menos_vendidos](https://github.com/user-attachments/assets/62f02205-9d62-4aa2-9c86-b2af06f0a16d)
+
 ________________________________________
 # **5. Frete Médio por Loja**
 
